@@ -1,6 +1,6 @@
 # API RESTful
 
-## Funcionalidades em contrução (ainda não utilizando BD)
+## Funcionalidades em contrução 
 
 - **Cadastrar destinos de viagem**: Permite adicionar novos destinos com informações como nome, localização e detalhes.
   
